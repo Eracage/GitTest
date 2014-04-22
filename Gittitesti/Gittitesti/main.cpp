@@ -11,6 +11,9 @@ int main()
 	int döö;
 	int testnumber2 = 2;
 	testnumber += testnumber2;
+
+	vektori a = vektori();
+	vektori b = vektori(2,2);
 	
 	std::vector<std::string> strings;
 	strings.push_back("asdf");

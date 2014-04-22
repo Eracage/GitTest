@@ -1,9 +1,21 @@
 #include "vektori.h"
 
 
-vektori::vektori(void)
+vektori::vektori(float X, float Y)
+{
+	x = X;
+	y = Y;
+	
+
+}
+
+vektori::vektori()
 {
 	int heheöööäöå;
+	x = 1;
+	y = 1;
+	
+
 }
 
 
