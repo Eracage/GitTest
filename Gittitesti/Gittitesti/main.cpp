@@ -8,7 +8,7 @@
 
 int main()
 {
-	int testnumber = 1;
+	int döö;
 	int testnumber2 = 2;
 	testnumber += testnumber2;
 
@@ -18,6 +18,7 @@ int main()
 	std::vector<std::string> strings;
 	strings.push_back("asdf");
 	strings.push_back("qwer");
+
 
 	// muutos
 

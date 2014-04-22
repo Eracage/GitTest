@@ -11,6 +11,7 @@ vektori::vektori(float X, float Y)
 
 vektori::vektori()
 {
+	int heheöööäöå;
 	x = 1;
 	y = 1;
 	
