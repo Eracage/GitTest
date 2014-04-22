@@ -19,5 +19,7 @@ int main()
 	strings.push_back("asdf");
 	strings.push_back("qwer");
 
+	// muutos
+
 	return 0;
 }
