@@ -2,7 +2,11 @@
 class vektori
 {
 public:
-	vektori(void);
+	vektori(float,float);
+	vektori();
+
+	float x,y;
+
 	~vektori(void);
 };
 
