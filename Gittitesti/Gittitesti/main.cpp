@@ -3,5 +3,6 @@
 
 int main()
 {
+	int döö;
 	return 0;
 }

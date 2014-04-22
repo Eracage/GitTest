@@ -3,6 +3,7 @@
 
 vektori::vektori(void)
 {
+	int heheöööäöå;
 }
 
 
